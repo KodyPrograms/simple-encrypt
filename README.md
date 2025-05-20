@@ -1,5 +1,5 @@
-# simple-encrypt
-Simple PHP file that encrypts and decrypts based on a Key.
+# Simple PHP Encryption
+Simple PHP file that encrypts and decrypts data that could be sent to other places based on a Key.
 
 This file provides a easy way to do the following:
 - Generate and verify CSRF tokens
